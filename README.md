@@ -93,9 +93,6 @@ Scikit-learn : Ridge, Random Forest, métriques
 Matplotlib/Seaborn : Visualisations
 
 
-🚀 Comment Exécuter
-bash# Installation des dépendances
-pip install pandas numpy matplotlib seaborn statsmodels scikit-learn openpyxl
 
 # Exécution du projet
 python nowcasting_project.py
